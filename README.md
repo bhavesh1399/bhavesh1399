@@ -10,7 +10,7 @@ steps:
       3) backend :write cd backend in terminal and after that we will write npm install  
                   after completed installation we'll start backend (npm start) 
       4) fronend :write cd fronend in terminal and after that we will write npm install  
-                  after completed installation we'll start backend (npm start) 
+                  after completed installation we'll start frontend (npm start) 
                   
       5) open your browser and run project on localhost:3000 
       6) open Incognito window and open localhost:3000 ( 2nd window )

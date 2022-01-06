@@ -1,0 +1,39 @@
+.container {
+  display: grid;
+  grid-template-columns: 5fr 3fr;
+}
+
+.myId {
+  margin-right: 15rem;
+  border-radius: 5px;
+  background: linear-gradient(to right, #418fff, rgb(125 220 255 / 95%));
+
+  padding: 1rem;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.call-button {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.video-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-content: center;
+  margin-top: 10rem;
+  margin-left: 10rem;
+}
+
+.caller {
+  text-align: center;
+  color: #fff;
+}
+
+body {
+  background: -webkit-linear-gradient(to right, #1b1b1b, #dadadb);
+  background: linear-gradient(to right, #001b77, #000000);
+}

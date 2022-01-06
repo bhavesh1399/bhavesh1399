@@ -2,7 +2,7 @@ How to run react video calling app
 
 steps:
 
-      1) Donwload video calling App folder 
+      1) Download video calling App folder 
       2) Open folder in visual code
       
       For starting our app we have to install node_modules that's why we will install node_modules in backend and fronend folders

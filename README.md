@@ -1,16 +1,19 @@
-### Hi there 👋
+How to run react video calling app
 
-<!--
-**bhavesh1399/bhavesh1399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+steps:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      1) Donwload video calling App folder 
+      2) Open folder in visual code
+      
+      For starting our app we have to install node_modules that's why we will install node_modules in backend and fronend folders
+      
+      3) backend :write cd backend in terminal and after that we will write npm install  
+                  after completed installation we'll start backend (npm start) 
+      4) fronend :write cd fronend in terminal and after that we will write npm install  
+                  after completed installation we'll start backend (npm start) 
+                  
+      5) open your browser and run project on localhost:3000 
+      6) open Incognito window and open localhost:3000 ( 2nd window )
+      
+      7) now we copy id to call that person and past in another browser and call 
+      8) To answer that call we will open the window that we had copid id 
